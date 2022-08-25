@@ -1,3 +1,1 @@
-const reverseString = (string) => [...string].reverse().join('');
-
-module.exports = reverseString;
+module.exports = (string) => [...string].reverse().join('');
